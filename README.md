@@ -1,4 +1,4 @@
-# Responsi-SO-Praktik-V
+# No 1
 print("")
 print("==========Responsi SO Praktik Simulasi Management RAM==========")
 print("")
